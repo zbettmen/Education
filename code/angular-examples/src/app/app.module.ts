@@ -14,7 +14,7 @@ import { BRoutingModule } from 'src/modules/10-BasicRouting/b-routing.module';
 import { ARoutingModule } from 'src/modules/10-AdvancedRouting/a-routing.module';
 import { TemplateFormsModule } from 'src/modules/11-TemplateForms/template-forms.module';
 import { TemplateFormsValidationModule } from 'src/modules/11-TemplateFormsValidation/template-forms-validation.module';
-import { RctiveFormsModule } from 'src/modules/10-ReactiveForms/rctive-forms.module';
+import { RctiveFormsModule } from 'src/modules/11-ReactiveForms/rctive-forms.module';
 import { RctiveFormsValidationModule } from 'src/modules/11-ReactiveFormsValidation/rctive-forms-validation.module';
 import { AngHttpModule } from 'src/modules/12-Http/ang-http.module';
 import { ElementsModule } from '../modules/13-Elements/elements.module';
